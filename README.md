@@ -5,7 +5,7 @@ vagrant up
 vagrant ssh
 cd /vagrant
 docker build . # to run Dockerfilee
-```bash
+```
 
 ## tagging
 
